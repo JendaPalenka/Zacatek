@@ -26,6 +26,10 @@ h2{
 
 }
 
+span{
+	color: teal;
+}
+
 h1 span{
 	color: violet;
 }
