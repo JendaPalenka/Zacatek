@@ -1,0 +1,9 @@
+body{
+	font-family: Helvetica;
+	margin: 0;
+}
+
+.box{
+	background-color: #007FFF;
+	width: 400px;
+}
